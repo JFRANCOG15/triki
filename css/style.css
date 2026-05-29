@@ -15,6 +15,11 @@
     grid-template-columns: repeat(3, 0fr);
 }
 
+.celda:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
+
 body{
     display: flex;
     align-items: center;
